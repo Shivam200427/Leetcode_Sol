@@ -1,28 +1,25 @@
 class Solution {
 public:
-    void preo(TreeNode* root, vector<TreeNode*>& node) {
-        if(root == NULL) return;
-
-        node.push_back(root);
-
-        preo(root->left, node);
-        preo(root->right, node);
-    }
 
     void flatten(TreeNode* root) {
 
-        vector<TreeNode*> node;  
+        if (root == NULL)
+            return;
 
-        preo(root, node);
+        flatten(root->left);
+        flatten(root->right);
 
-        for(int i = 0; i + 1 < node.size(); i++){
-            node[i]->left = NULL;
-            node[i]->right = node[i + 1];
-        }
+        TreeNode* left = root->left;
+        TreeNode* right = root->right;
 
-        if(!node.empty()) {
-            node[node.size() - 1]->left = NULL;
-            node[node.size() - 1]->right = NULL;
+        root->left = NULL;
+        if (left != NULL) {
+            root->right = left;
+            TreeNode* temp = left;
+            while (temp->right != NULL) {
+                temp = temp->right;
+            }
+            temp->right = right;
         }
     }
 };
