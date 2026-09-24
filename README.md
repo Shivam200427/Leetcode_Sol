@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0700-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
