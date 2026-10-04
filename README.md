@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -137,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
