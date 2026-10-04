@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 ## Monotonic Stack
 |  |
