@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0128-longest-consecutive-sequence) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
@@ -166,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
