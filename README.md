@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
@@ -181,16 +184,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -207,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
