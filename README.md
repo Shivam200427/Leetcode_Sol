@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
