@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivam200427/Leetcode_Sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
