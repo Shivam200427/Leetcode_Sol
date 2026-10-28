@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
@@ -275,9 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
