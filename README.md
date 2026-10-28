@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -279,10 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
