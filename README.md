@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivam200427/Leetcode_Sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
+| [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
@@ -270,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
