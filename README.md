@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0368-largest-divisible-subset) |
 ## Combinatorics
