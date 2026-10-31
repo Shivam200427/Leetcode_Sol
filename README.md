@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivam200427/Leetcode_Sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3665-twisted-mirror-path-count](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3665-twisted-mirror-path-count](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3665-twisted-mirror-path-count](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3665-twisted-mirror-path-count) |
 ## Knapsack Problem
 |  |
 | ------- |
