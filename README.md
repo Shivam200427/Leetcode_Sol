@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0300-longest-increasing-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
