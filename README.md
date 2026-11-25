@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1020-number-of-enclaves) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0678-valid-parenthesis-string) |
 | [1049-last-stone-weight-ii](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3665-twisted-mirror-path-count](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3665-twisted-mirror-path-count) |
