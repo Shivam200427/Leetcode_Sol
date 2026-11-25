@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0300-longest-increasing-subsequence) |
+| [3934-smallest-unique-subarray](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shivam200427/Leetcode_Sol/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shivam200427/Leetcode_Sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3665-twisted-mirror-path-count](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3665-twisted-mirror-path-count) |
+| [3934-smallest-unique-subarray](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -328,4 +331,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shivam200427/Leetcode_Sol/tree/master/0547-number-of-provinces) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Shivam200427/Leetcode_Sol/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
